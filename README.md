@@ -1,4 +1,5 @@
-# lara-pdf-merger
+# LARAVEL PDF MERGER
+
 PDF Merger for laravel 8.xx. Work with PHP 8
 
 Updated by Dayanne Garcia August 2021 dayannegarcia@ystevo.com
