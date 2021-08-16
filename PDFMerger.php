@@ -4,6 +4,9 @@
  * PDFMerger created in December 2009
  * @author Jarrod Nettles <jarrod@squarecrow.com>
  *
+ * Updated by Dayanne Garcia August 2021
+ * dayannegarcia@ystevo.com
+ *
  * Updated by Vasiliy Zaytsev February 2016
  * vasiliy.zaytsev@ffwagency.com
  *
