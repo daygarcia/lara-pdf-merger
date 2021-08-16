@@ -1,8 +1,12 @@
 {
-    "name": "myokyawhtun/pdfmerger",
-    "description": "PDFMerger for PHP (PHP 5 and up to PHP 7.1 Compatible)",
+    "name": "daygarcia/pdfmerger",
+    "description": "PDFMerger for Laravel 8.x (PHP 8 Compatible)",
     "authors": [
     	{
+    		"name":"Dayanne Garcia",
+    		"email": "dayannegarcia@ystevo.com"
+    	},
+        {
     		"name":"Jarrod Nettles",
     		"email": "jarrod@squarecrow.com"
     	},
