@@ -722,7 +722,7 @@ class TCPDF_PARSER {
 			// reference to indirect object
 			if (isset($this->objects[$obj[1]])) {
 				// this object has been already parsed
-				return $this->objects[$obj[1]];
+				return $this->objects[$obj[1]]; 
 			} elseif (isset($this->xref[$obj[1]])) {
 				// parse new object
 				$this->objects[$obj[1]] = $this->getIndirectObject($obj[1], $this->xref[$obj[1]], false);
